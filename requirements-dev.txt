@@ -39,9 +39,9 @@ decorator==4.4.2; python_version >= "3.7" and python_full_version < "3.0.0" and 
     --hash=sha256:e3a62f0520172440ca0dcc823749319382e377f37f140a0b99ef45fecb84bfe7
 fake-useragent==0.1.11; python_full_version >= "3.6.0" \
     --hash=sha256:c104998b750eb097eefc28ae28e92d66397598d2cf41a31aa45d5559ef1adf35
-idna==2.10; python_full_version >= "3.6.0" and python_version >= "3.6" \
-    --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0 \
-    --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6
+idna==3.7; python_full_version >= "3.6.0" and python_version >= "3.6" \
+    --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
+    --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
 importlib-metadata==3.7.3; python_version < "3.8" and python_version >= "3.6" and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_full_version >= "3.4.0" and python_version >= "3.6" and python_version < "3.8") \
     --hash=sha256:b74159469b464a99cb8cc3e21973e4d96e05d3024d337313fedb618a6e86e6f4 \
     --hash=sha256:742add720a20d0467df2f444ae41704000f50e1234f46174b51f9c6031a1bd71

@@ -23,9 +23,9 @@ demjson3==3.0.5 \
     --hash=sha256:ab9aabdd85695f3684fc296f39766a2730f6c8de81d23f7048073dfe2f616d80
 fake-useragent==0.1.11; python_full_version >= "3.6.0" \
     --hash=sha256:c104998b750eb097eefc28ae28e92d66397598d2cf41a31aa45d5559ef1adf35
-idna==2.10; python_full_version >= "3.6.0" \
-    --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0 \
-    --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6
+idna==3.7; python_full_version >= "3.6.0" \
+    --hash=sha256:028ff3aadf0609c1fd278d8ea3089299412a7a8b9bd005dd08b9f8285bcb5cfc \
+    --hash=sha256:82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0
 lxml==4.9.1; python_full_version >= "3.6.0" \
     --hash=sha256:04da965dfebb5dac2619cb90fcf93efdb35b3c6994fea58a157a834f2f94b318 \
     --hash=sha256:0538747a9d7827ce3e16a8fdd201a99e661c7dee3c96c885d8ecba3c35d1032c \
